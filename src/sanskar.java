@@ -6,6 +6,7 @@ abstract class dep_info{
 }
 
 abstract class emp_info{
+
     abstract public void employee_info();
 }
 class Employee extends emp_info {
